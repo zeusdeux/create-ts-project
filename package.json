@@ -1,0 +1,33 @@
+{
+  "name": "@zeusdeux/create-ts-project",
+  "version": "1.0.0",
+  "description": "Create a Typescript project using https://github.com/zeusdeux/ts-seed-project",
+  "bin": {
+    "create-ts-project": "create.js"
+  },
+  "keywords": [
+    "typescript",
+    "ts",
+    "seed"
+  ],
+  "author": "Mudit Ameta <zeusdeux@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "ora": "^3.2.0",
+    "shell-escape": "^0.2.0"
+  },
+  "main": "create.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeusdeux/create-ts-project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zeusdeux/create-ts-project/issues"
+  },
+  "homepage": "https://github.com/zeusdeux/create-ts-project#readme"
+}
